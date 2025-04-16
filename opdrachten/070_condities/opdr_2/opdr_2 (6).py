@@ -1,0 +1,11 @@
+# Opdracht 2 condities
+# Naam student: Jasper Spannenberg
+# Groep: IT2B
+
+# Gegeven lijst
+getallen = [43948, 878768, 38768, 87555, 765765]
+
+# Loop door de lijst en check of het getal deelbaar is door 3
+for getal in getallen:
+    if getal % 3 == 0:
+        print(getal)
