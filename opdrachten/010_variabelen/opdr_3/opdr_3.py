@@ -1,8 +1,15 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Jasper Spannenberg
+# Groep: IT2B
 
-# Hier komt je code...
+my_dict = {
+    "naam": "willem",
+    "achternaam": "van der broek",
+    "leeftijd": 23,
+    "favoriete kleur": "blauw"
+}
+
+print(my_dict)
 
 my_dict = ...
 
