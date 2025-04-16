@@ -1,8 +1,9 @@
 # Opdracht 3 input functie
-# Naam student:
-# Groep:
+# Naam student:Jasper Spannenberg
+# Groep:IT2B
 
-# Hier komt je code...
+lijst = [x * 3 for x in range(1, 21)]
+print(lijst[:6])
 
 # Hier start de for-loop
 
